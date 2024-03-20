@@ -8,7 +8,7 @@ import org.slf4j.Logger;
 
 @Mod(CreepAway.MODID)
 public class CreepAway {
-    public static final String MODID = "creeperrepellent";
+    public static final String MODID = "creepaway";
     private static final Logger LOGGER = LogUtils.getLogger();
 
     public CreepAway() {
